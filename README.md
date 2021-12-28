@@ -31,7 +31,7 @@ Portfolio projects that showcase your new skills
    7. [x] Breakpoint Naming Convention
    8. [x] Combining Bootstrap Classes
 2. [x] PROJECT 1: Recreate a painting using Bootstrap's grid 
-3. Bootstrap Utilities and Components
+3. [ ] Bootstrap Utilities and Components
    1. [x] Adding Colors
    2. [x] Styling Text
    3. [x] Element Positioning
@@ -39,7 +39,7 @@ Portfolio projects that showcase your new skills
    5. [x] The Button Component
    6. [x] Collapsing a Component
    7. [x] Creating a Navbar
-   8. [ ] The Jumbotron Component
+   8. [x] The Jumbotron Component
    9. [ ] Adding a Card
    10. [ ] The Carousel Component
 4. [ ] PROJECT 2: Adhoc
