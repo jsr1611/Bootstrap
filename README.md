@@ -17,6 +17,7 @@ Portfolio projects that showcase your new skills
 1. Recreate a painting using Bootstrap's grid
 2. Adhoc
 
+[Course syllabys](https://www.codecademy.com/learn/learn-bootstrap)
 
 ### COURSE PROGRESS
 0. [x] Bootstrap 
