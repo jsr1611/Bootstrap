@@ -23,7 +23,7 @@ Remember, as you code along, save your code in order to see your changes reflect
 
 ## Getting Ready
 
-1. <p>Before we touch the code, look over Adhoc’s design spec provided in the introduction. Notice that the design spec includes information about what Bootstrap utility classes components are used.</p> <p>And keep in mind that the website is designed to be responsive so that it accommodates desktop and mobile screens. Therefore, as you work through the project, resize your browser to see both the desktop and mobile versions!</p> <p>Also, check out the links provided for the images used on the website.</p> <p></p>Lastly, look over the provided code in index.html. You’ll see some starter code that you’ll have to edit in order to have a functioning site.</p>
+1. Before we touch the code, look over [Adhoc’s design spec](./adhoc%20design%20spec.png) provided in the introduction. Notice that the design spec includes information about what Bootstrap utility classes components are used. <p>And keep in mind that the website is designed to be responsive so that it accommodates desktop and mobile screens. Therefore, as you work through the project, resize your browser to see both the desktop and mobile versions!</p> <p>Also, check out the links provided for the images used on the website.</p> <p></p>Lastly, look over the provided code in index.html. You’ll see some starter code that you’ll have to edit in order to have a functioning site.</p>
 
 ## Editing the Navbar
 
